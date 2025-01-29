@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nico</h1>
 <h3 align="center">This is my GitHub, all my projects are here, feel free to explore.</h3>
 
+![GIF](https://i.gifer.com/VqrR.gif)
+
 - 📫 How to reach me **nik.lafuente@gmail.com**
 
 <h4> Lenguages </h4>
