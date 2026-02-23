@@ -4,6 +4,8 @@
 
 Todos mis proyectos estan aquí, sientete libre de explorar!!
 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicol%C3%A1s-gonz%C3%A1lez-de-mendoza-66b56125a/)
 [![Email](https://img.shields.io/badge/contacto-nik.lafuente%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:nik.lafuente@gmail.com)
 
 </div>
@@ -41,16 +43,17 @@ Todos mis proyectos estan aquí, sientete libre de explorar!!
 
 ---
 
+
 ## 📊 Estadísticas
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&locale=es)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&locale=es)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ErMichoss&show_icons=true&theme=tokyonight&hide_border=true&locale=es&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ErMichoss&layout=compact&theme=tokyonight&hide_border=true&locale=es&cache_seconds=1800)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ErMichoss&theme=tokyonight&hide_border=true&locale=es)
 
 </div>
-
----
 
 
 
