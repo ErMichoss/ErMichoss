@@ -52,30 +52,55 @@ Todos mis proyectos estan aquí, sientete libre de explorar!!
 
 ---
 
+
+
 ## 🚀 Proyectos
 
-### 🖥️ Multiplataforma / C / C++
+### 🧱 Librería Estándar en C
 
 | Proyecto | Descripción |
 |----------|-------------|
-| [Nombre del proyecto](https://github.com/TU_USUARIO/REPO) | Breve descripción del proyecto |
-| [Nombre del proyecto](https://github.com/TU_USUARIO/REPO) | Breve descripción del proyecto |
+| [libft](https://github.com/ErMichoss/libft) | Recreación desde cero de las funciones estándar de la libc en C |
+| [Printf](https://github.com/ErMichoss/Printf) | Implementación propia de `printf` con soporte de flags y conversiones |
+| [get_next_line](https://github.com/ErMichoss/get_next_line) | Lectura línea a línea desde un file descriptor usando buffers |
 
-### 🌐 Desarrollo Web
-
-| Proyecto | Descripción |
-|----------|-------------|
-| [Nombre del proyecto](https://github.com/TU_USUARIO/REPO) | Breve descripción del proyecto |
-| [Nombre del proyecto](https://github.com/TU_USUARIO/REPO) | Breve descripción del proyecto |
-
-### 🎓 42 Madrid
+### ⚙️ Procesos, Pipes y Shell
 
 | Proyecto | Descripción |
 |----------|-------------|
-| [Nombre del proyecto](https://github.com/TU_USUARIO/REPO) | Breve descripción del proyecto |
-| [Nombre del proyecto](https://github.com/TU_USUARIO/REPO) | Breve descripción del proyecto |
+| [pipex](https://github.com/ErMichoss/pipex) | Replica el comportamiento de `\|` en Unix: fork, exec y redirección de I/O |
+| [Minishell](https://github.com/ErMichoss/Minishell) | Shell funcional tipo bash: parsing, procesos, señales y file descriptors |
+| [taskmaster](https://github.com/4trastos/taskmaster) ⭐ | Daemon de control de procesos similar a supervisord: lanzamiento, monitoreo y gestión de jobs mediante configuración |
+
+### 🧵 Concurrencia y Multithreading
+
+| Proyecto | Descripción |
+|----------|-------------|
+| [Philosophers](https://github.com/ErMichoss/Philosophers) | El problema de los filósofos: threads POSIX, mutex y sincronización de procesos |
+| [ft_nmap](https://github.com/4trastos/ft_nmap) ⭐ | Recodificación de `nmap`: escaneo de puertos con subprocesos concurrentes para auditoría de red |
+
+### 🔐 Ciberseguridad e Ingeniería Inversa
+
+| Proyecto | Descripción |
+|----------|-------------|
+| [Snow_Crash](https://github.com/4trastos/Snow_Crash) ⭐ | Wargame de seguridad: explotación de vulnerabilidades reales adoptando la mentalidad de un atacante |
+| [Rainfall](https://github.com/4trastos/Rainfall) ⭐ | Ingeniería inversa y explotación de binarios C de 32 bits: stack, heap, registros CPU y direcciones de memoria |
+
+### 🎮 Gráficos y Motor 3D
+
+| Proyecto | Descripción |
+|----------|-------------|
+| [cub3D](https://github.com/4trastos/cub3D) ⭐ | Motor 3D tipo Wolfenstein con raycasting usando MiniLibX |
+
+### 🌐 Proyecto Final — Aplicación Web Compleja
+
+| Proyecto | Descripción |
+|----------|-------------|
+| [ft_transcendence](https://github.com/4trastos/Transcendence) ⭐ | Aplicación web multijugador en tiempo real: proyecto final del Common Core de 42 |
 
 ---
+
+> ⭐ *Proyectos en colaboración con [@4trastos](https://github.com/4trastos)*
 
 <div align="center">
   <i>Si algo de lo que ves te resulta útil o interesante, no dudes en escribirme.</i>
