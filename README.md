@@ -68,6 +68,8 @@ Todos mis proyectos estan aquí, sientete libre de explorar!!
 | [libft](https://github.com/ErMichoss/libft) | Recreación desde cero de las funciones estándar de la libc en C |
 | [Printf](https://github.com/ErMichoss/Printf) | Implementación propia de `printf` con soporte de flags y conversiones |
 | [get_next_line](https://github.com/ErMichoss/get_next_line) | Lectura línea a línea desde un file descriptor usando buffers |
+| [ft_nm](https://github.com/ErMichoss/nm) | Recreación de `nm` de Unix: inspección de símbolos en binarios ELF (ejecutables y librerías) |
+| [malloc](https://github.com/ErMichoss/malloc) | Reimplementación de `malloc`, `free` y `realloc`: gestión de memoria dinámica a bajo nivel |
 
 ### ⚙️ Procesos, Pipes y Shell
 
