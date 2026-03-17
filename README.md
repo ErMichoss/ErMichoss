@@ -77,6 +77,7 @@ Todos mis proyectos estan aquí, sientete libre de explorar!!
 |----------|-------------|
 | [pipex](https://github.com/ErMichoss/pipex) | Replica el comportamiento de `\|` en Unix: fork, exec y redirección de I/O |
 | [Minishell](https://github.com/ErMichoss/Minishell) | Shell funcional tipo bash: parsing, procesos, señales y file descriptors |
+| [Lem-ipc](https://github.com/ErMichoss/lem-ipc) | Juego que utiliza IPC de Linux para la comunicación entre jugadores |
 | [taskmaster](https://github.com/4trastos/taskmaster) ⭐ | Daemon de control de procesos similar a supervisord: lanzamiento, monitoreo y gestión de jobs mediante configuración |
 
 ### 🧵 Concurrencia y Multithreading
@@ -98,6 +99,7 @@ Todos mis proyectos estan aquí, sientete libre de explorar!!
 | Proyecto | Descripción |
 |----------|-------------|
 | [cub3D](https://github.com/4trastos/cub3D) ⭐ | Motor 3D tipo Wolfenstein con raycasting usando MiniLibX |
+| [MusicBox](https://github.com/ErMichoss/MusicBox)  | Mod de R.E.P.O con Unity |
 
 ### 🌐 Proyecto Final — Aplicación Web Compleja
 
