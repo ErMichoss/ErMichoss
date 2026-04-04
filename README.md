@@ -87,6 +87,12 @@ Todos mis proyectos estan aquí, sientete libre de explorar!!
 | [Philosophers](https://github.com/ErMichoss/Philosophers) | El problema de los filósofos: threads POSIX, mutex y sincronización de procesos |
 | [ft_nmap](https://github.com/4trastos/ft_nmap) ⭐ | Recodificación de `nmap`: escaneo de puertos con subprocesos concurrentes para auditoría de red |
 
+### 🌐 HTTP
+
+| Proyecto | Descripción |
+|----------|-------------|
+| [WebServer](https://github.com/ErMichoss/Webserv) ⭐ | Este proyecto trata sobre cómo escribir tu propio servidor HTTP. |
+
 ### 🔐 Ciberseguridad e Ingeniería Inversa
 
 | Proyecto | Descripción |
