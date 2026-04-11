@@ -100,6 +100,12 @@ Todos mis proyectos estan aquí, sientete libre de explorar!!
 | [Snow_Crash](https://github.com/4trastos/Snow_Crash) ⭐ | Wargame de seguridad: explotación de vulnerabilidades reales adoptando la mentalidad de un atacante |
 | [Rainfall](https://github.com/4trastos/Rainfall) ⭐ | Ingeniería inversa y explotación de binarios C de 32 bits: stack, heap, registros CPU y direcciones de memoria |
 
+### 🐳 Proyectos DevOps & Contenedores
+| Proyecto | Descripción |
+|----------|-------------|
+| .[Inception](https://github.com/ErMichoss/Inception) | Infraestructura modular con Docker: NGINX, WordPress, MariaDB, Redis, TLS, volumen persistente y redes virtuales, todo orquestado con docker-compose. |
+| .[Inception of Things](https://github.com/4trastos/Inception-of-Things-IoT-) ⭐ | Proyecto de administración de sistemas de la escuela 42 — Kubernetes con K3s, K3d, Vagrant y Argo CD. |
+
 ### 🎮 Gráficos y Motor 3D
 
 | Proyecto | Descripción |
